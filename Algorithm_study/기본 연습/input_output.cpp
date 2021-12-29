@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-
+    //<B_10869>
     //int a, b;
     //cin >> a >> b;
 
@@ -15,6 +15,7 @@ int main()
     //cout << a / (double) b << endl;
     //cout << a % b << endl;
     
+    //<B_10430>
     /*int a, b, c;
     cin >> a >> b >> c;
     cout << (a + b) % c << endl;
@@ -22,6 +23,7 @@ int main()
     cout << (a * b) % c << endl;
     cout << ((a % c) * (b % c)) % c << endl;*/
 
+    //<B_2588>
     int a, b, res1, res2, res3;
     cin >> a >> b;
     
