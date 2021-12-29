@@ -1,4 +1,4 @@
-ï»¿#include <iostream>
+#include <iostream>
 
 using namespace std;
 
@@ -11,7 +11,7 @@ int main()
     //cout << a + b << endl;
     //cout << a - b << endl;
     //cout << a * b << endl;
-    //cout.precision(20);    //ì†Œìˆ˜ì  ì¶œë ¥ë²”ìœ„ ì„¤ì •
+    //cout.precision(20);    //¼Ò¼öÁ¡ Ãâ·Â¹üÀ§ ¼³Á¤
     //cout << a / (double) b << endl;
     //cout << a % b << endl;
     
