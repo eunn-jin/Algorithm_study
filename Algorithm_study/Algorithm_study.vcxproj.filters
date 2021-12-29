@@ -13,10 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\기본 연습">
+      <UniqueIdentifier>{9c6cb890-349a-4669-857e-16fad71009b5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Algorithm_1.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="input_output.cpp">
+      <Filter>소스 파일\기본 연습</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithm_2.cpp">
+      <Filter>소스 파일\기본 연습</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
